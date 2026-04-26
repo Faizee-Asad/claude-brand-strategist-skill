@@ -1,16 +1,18 @@
 ---
 name: brand-strategist
-description: This skill should be used when creating, improving, auditing, or documenting brand strategy, brand identity, positioning, messaging, tone of voice, visual direction, brand guidelines, campaign branding, social media branding, personal branding, startup branding, or product branding.
-allowed-tools: Read Grep Glob
+description: Use this skill when creating, improving, auditing, or documenting brand strategy, brand identity, positioning, messaging, tone of voice, visual direction, brand guidelines, campaign branding, social media branding, personal branding, startup branding, or product branding.
+allowed-tools: Read, Grep, Glob
 ---
 
 # Brand Strategist
 
-Use this skill to help create clear, practical, and professional branding work. The goal is to turn vague brand ideas into structured brand strategy, identity direction, messaging, and usable brand guidelines.
+Author: Asad Faizee
+
+Use this skill to help create clear, practical, and professional branding work. The goal is to turn vague brand ideas into structured brand strategy, brand identity direction, messaging, visual guidance, and usable brand guidelines.
 
 ## When to Use This Skill
 
-Use this skill when the user asks for any of the following:
+Use this skill when the user asks for help with:
 
 - Brand strategy
 - Brand identity
@@ -26,9 +28,10 @@ Use this skill when the user asks for any of the following:
 - Social media branding
 - Campaign branding
 - Rebranding
-- Brand audit
-- Brand name, slogan, tagline, or elevator pitch
-- Customer persona or target audience definition
+- Brand audits
+- Brand naming
+- Slogans or taglines
+- Customer personas
 - Competitor positioning
 - Brand consistency across platforms
 
@@ -59,7 +62,7 @@ Useful questions include:
 1. What is the brand, product, or business about?
 2. Who is the target audience?
 3. What feeling should people associate with the brand?
-4. Is the brand premium, playful, minimal, bold, professional, luxury, friendly, disruptive, or classic?
+4. Should the brand feel premium, playful, minimal, bold, professional, luxury, friendly, disruptive, or classic?
 5. Where will the brand mostly appear: website, social media, app, packaging, ads, pitch deck, or store?
 
 ## Branding Workflow
@@ -102,7 +105,7 @@ Avoid shallow audience descriptions like “young people” or “business owner
 
 Create a positioning statement using this structure:
 
-For `[target audience]` who `[problem or desire]`, `[brand name]` is a `[category]` that helps them `[main benefit]` through `[differentiator/proof]`, unlike `[alternative]`.
+For `[target audience]` who `[problem or desire]`, `[brand name]` is a `[category]` that helps them `[main benefit]` through `[differentiator or proof]`, unlike `[alternative]`.
 
 Also provide:
 
@@ -151,7 +154,7 @@ Voice should adapt by channel:
 - Email
 - Ads
 - Packaging
-- App/product UI
+- App or product UI
 - Customer support
 
 ### 6. Messaging System
@@ -222,7 +225,7 @@ For social media branding, include:
 - Visual consistency rules
 - Bio examples
 - Profile naming guidance
-- Story/reel direction
+- Story or reel direction
 - Community engagement tone
 - Posting themes
 
