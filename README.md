@@ -4,7 +4,7 @@ A Claude Code skill for brand strategy, brand identity, positioning, messaging, 
 
 ## Author
 
-Created by **YOUR NAME HERE**.
+Created by **Asad Faizee**.
 
 Replace this with your real name, brand name, or GitHub username.
 
